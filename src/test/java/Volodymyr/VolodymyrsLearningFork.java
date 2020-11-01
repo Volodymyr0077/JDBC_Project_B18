@@ -10,6 +10,7 @@ public class VolodymyrsLearningFork {
         }
         for (int e:f){
             System.out.print(e+" ");
+
         }
     }
 }
